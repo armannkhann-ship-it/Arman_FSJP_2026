@@ -2,7 +2,7 @@
 Use constructor overloading to initialize the data with either
 default values or user provided values. Use method overloading
 to add integer or double.
-NAME : Maaz Ismail Sayyed
+NAME : Choudhary Mohd Arman 
 BATCH : SE-COMPS(A) */
 public class Calculator {
  int a;
